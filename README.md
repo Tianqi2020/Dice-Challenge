@@ -1,4 +1,4 @@
-# Tin-Dog
+# Dice Challenge
 Folder for Dice Challenge Project
 
 This project is a simple Dice Challenge Game. You can participle this game by open the "dice.html" file.
